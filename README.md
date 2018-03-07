@@ -1,3 +1,6 @@
+# Fork
+This is fork from [https://github.com/cblanquera/bootstrap-markdown-editor](https://github.com/cblanquera/bootstrap-markdown-editor)
+
 # Bootstrap Markdown Editor
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
@@ -9,9 +12,10 @@ This is a jQuery plugin.
 
 ## Requirements
 
-* Bootstrap 3
+* Bootstrap 4
 * jQuery
 * Ace editor (http://ace.c9.io)
+* Font Awesome 5
 
 ## Features
 
